@@ -1,0 +1,31 @@
+|||   |||
+|||/| |||
+||//|\|||
+|//  \\||afastarz
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DEVELOPER | デベロッパー
+
+Hand crafted design & web development by M. Khoirul Wafa.
+
+twitter.com/masapaaaa
+github.com/mkhoirulwafa18
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+Next.js
+Framer Motion
+Tailwind
+Youtube API
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Poppins
